@@ -1,5 +1,35 @@
-# RELIGION
-# Religious conviction remains a significant barrier to society's acceptance of homosexuality and same-sex unions. American citizens of all sexual orientations and gender identities who identify as religious have overwhelmingly backed the push for LGBTQ rights in our nation. But for far too long, media narratives have portrayed secular LGBTQ rights advocates as pitted against opponents of Gay equality who are inspired by their religious beliefs. Does news media coverage of the nexus of faith and LGBTQ rights reflect the substantial changes in public opinion in faith groups and in support for LGBTQ rights nationwide in recent years? The Center for American Progress investigated this problem by looking at items that were published during a 15-month period in a few national and local newspapers.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Birds : Landing Page</title>
+      <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+      <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+      <header>
+            <a href="#" class="logo">The <span>Birds</span></a>
+            <div class="toggle"><i class='bx bx-menu-alt-right'></i></div>
+      </header>
 
-# BUSINESS
-# Leaders from the business perspective bravely recognize the significance of these concerns. They think that the answers serve as the organization's final product and should have a significant impact on project decisions. First, when attempting to expand your firm, it can be good to compare it to finishing a marathon. Quick victories can occasionally result in losses in the future, and short-term failures can represent long-term concealed achievements. Consider how your long-term business objectives can be supported by and shaped by the cloud. Find ways to reduce your technical debt while utilizing the cloud to improve both your technology and business processes. Learn about fresh value propositions and cloud-ready business models. Find out how you may expand your consumer base or target new market niches with the aid of new or better cloud products and services.
+      <div class="banner">
+            <video src="Robin.mp4" autoplay muted loop type="mp4"></video>
+            <div class="textBox">
+                  <h2>Save the Birds</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam accusantium excepturi aperiam? Necessitatibus veritatis quas minus et debitis voluptatum suscipit, minima voluptatibus amet, eius itaque ex, vitae ullam corporis dolores.</p>
+                  <a href="#">Read More</a>
+            </div>
+
+            <div class="imgBox">
+                  <img src="bird.png" alt="">
+            </div>
+
+            <ul class="socialIcons">
+                  <li><a href="#"><i class='bx bxl-whatsapp' ></i></a></li>
+                  <li><a href="#"><i class='bx bxl-facebook' ></i></a></li>
+                  <li><a href="#"><i class='bx bxl-instagram' ></i></a></li>
+            </ul>
+      </div>
+</body>
+</html>
